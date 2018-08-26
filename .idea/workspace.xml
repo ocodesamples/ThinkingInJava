@@ -2,135 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4bf9b5f4-e758-4df2-b521-411e790f2cb7" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/SimpleConstructor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/SimpleConstructor2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/tain/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/tain/Student2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/company/lesson_5/l_5_2/Overloading.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/description.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/typeinfo_pets.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/project-template.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lesson_5/l_5_5_3/TerminationCondition.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/company/lesson_5/l_5_7_2/StaticInitialization.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ThinkingInJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ThinkingInJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_10/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_10/CovariantArrays.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_10/Fruit.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_10/Jonathan.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_10/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2/Automobile.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2/Holder1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2/Holder2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2/Holder3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_1/Amphibian.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_1/FourTuple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_1/ThreeTuple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_1/TupleTest.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_1/TwoTuple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_1/Veice.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_2/LinkedQueue$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_2/LinkedQueue.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_2/LinkedStack$Node.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_2/LinkedStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_2_2/RandomList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/AmeriCano.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Breve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Cappuccino.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Coffee$CoffeeGenerator$CoffeeIterator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Coffee$CoffeeGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Coffee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Fibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Generator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/IterableFibonacci$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/IterableFibonacci.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Latte.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_3/Mocha.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_4/GenericMethods.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_4_3/Generators.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_4_4/BasicGeneratorDome.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_4_4/BasicGeneratpr.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_4_4/CountedObject.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_5/BankTeller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_5/Customer$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_5/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_5/Teller$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_5/Teller.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_7/ErasedTypeEquivalence.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_7_4/ArrayMaker.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_8/Building.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_8/ClassTypeCapture.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_8/Erased.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_8/House.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/BasicBounds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/Bounded.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/CloredDimens.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/Colored.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/Colored2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/ColoredDimension2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/Dimension.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/HasColor.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/HoldItem.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/InheritBounds.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/Soild2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/Solid.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/SuperHearing.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/SuperHero.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/SuperPower.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/SuperSleuth.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/SuperSmell.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/Weight.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ThinkingInJava/com/company/lesson_15/l_15_9/XRayVision.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_10/Apple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_10/CovariantArrays.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_10/Fruit.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_10/GenericsAndCpvariance.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_10/Jonathan.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_10/Orange.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_2/Automobile.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_2/Holder1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_2/Holder2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_2/Holder3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_2_1/TwoTuple.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_2_2/LinkedQueue.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_2_2/LinkedStack.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_2_2/RandomList.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_3/Coffee.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_3/Fibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_3/Generator.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_3/IterableFibonacci.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_4/GenericMethods.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_4_3/Generators.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_4_4/BasicGeneratorDome.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_4_4/BasicGeneratpr.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_4_4/CountedObject.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_5/BankTeller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_5/Customer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_5/Teller.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_7/ErasedTypeEquivalence.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_7_4/ArrayMaker.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_8/ClassTypeCapture.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_8/Erased.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/BasicBounds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/Bounded.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/CloredDimens.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/Colored.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/Colored2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/ColoredDimension2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/Dimension.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/HasColor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/HoldItem.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/InheritBounds.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/Soild2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/Solid.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/SuperHearing.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/SuperHero.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/SuperPower.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/SuperSleuth.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/SuperSmell.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/Weight.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/company/lesson_15/l_15_9/XRayVision.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -193,11 +67,54 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Overloading.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Overloading.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_2/Overloading.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-369">
-              <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+            <state relative-caret-position="113">
+              <caret line="20" selection-start-line="20" selection-end-line="30" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="String.java" pinned="false" current-in-tab="false">
+        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/String.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="148">
+              <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TerminationCondition.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_5_3/TerminationCondition.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="35" selection-end-column="37" />
+              <folding>
+                <element signature="e#242#243#0" expanded="true" />
+                <element signature="e#273#274#0" expanded="true" />
+                <element signature="e#292#293#0" expanded="true" />
+                <element signature="e#320#321#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="StaticInitialization.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_7_2/StaticInitialization.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="188">
+              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+              <folding>
+                <element signature="e#170#171#0" expanded="true" />
+                <element signature="e#222#223#0" expanded="true" />
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#296#297#0" expanded="true" />
+                <element signature="e#440#441#0" expanded="true" />
+                <element signature="e#490#491#0" expanded="true" />
+                <element signature="e#706#707#0" expanded="true" />
+                <element signature="e#756#757#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -212,6 +129,10 @@
     </option>
   </component>
   <component name="FindInProjectRecents">
+    <findStrings>
+      <find>print</find>
+      <find>able</find>
+    </findStrings>
     <replaceStrings>
       <replace>System.out.println</replace>
     </replaceStrings>
@@ -228,6 +149,8 @@
         <option value="$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/tain/Student.java" />
         <option value="$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/tain/Student2.java" />
         <option value="$PROJECT_DIR$/src/com/company/lesson_5/l_5_2/Overloading.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lesson_5/l_5_5_3/TerminationCondition.java" />
+        <option value="$PROJECT_DIR$/src/com/company/lesson_5/l_5_7_2/StaticInitialization.java" />
       </list>
     </option>
   </component>
@@ -293,7 +216,7 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
-              <item name="l_5_2" type="462c0819:PsiDirectoryNode" />
+              <item name="l_5_5_3" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
@@ -302,8 +225,17 @@
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="company" type="462c0819:PsiDirectoryNode" />
               <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
-              <item name="l_5_2" type="462c0819:PsiDirectoryNode" />
-              <item name="Overloading.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="l_5_5_3" type="462c0819:PsiDirectoryNode" />
+              <item name="TerminationCondition.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+            </path>
+            <path>
+              <item name="ThinkingInJava" type="b2602c69:ProjectViewProjectNode" />
+              <item name="ThinkingInJava" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="company" type="462c0819:PsiDirectoryNode" />
+              <item name="lesson_5" type="462c0819:PsiDirectoryNode" />
+              <item name="l_5_7_2" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -320,6 +252,8 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/com/company/lesson_5/l_5_7_2" />
+      <recent name="$PROJECT_DIR$/src/com/company/lesson_5/l_5_5_3" />
       <recent name="$PROJECT_DIR$/src/com/company/lesson_5/l_5_2" />
       <recent name="$PROJECT_DIR$/src/com/company/lesson_5" />
     </key>
@@ -336,7 +270,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Overloading">
+  <component name="RunManager" selected="Application.StaticInitialization">
     <configuration name="Overloading" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.company.lesson_5.l_5_2.Overloading" />
       <module name="ThinkingInJava" />
@@ -348,24 +282,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="SimpleConstructor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lesson_5.l_5_1.SimpleConstructor" />
+    <configuration name="StaticInitialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lesson_5.l_5_7_2.StaticInitialization" />
       <module name="ThinkingInJava" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.company.lesson_5.l_5_1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="SimpleConstructor2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.lesson_5.l_5_1.SimpleConstructor2" />
-      <module name="ThinkingInJava" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.company.lesson_5.l_5_1.*" />
+          <option name="PATTERN" value="com.company.lesson_5.l_5_7_2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -377,6 +300,22 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.company.lesson_5.l_5_1.tain.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="TerminationCondition (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TerminationCondition" />
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="TerminationCondition" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.lesson_5.l_5_5_3.TerminationCondition" />
+      <module name="ThinkingInJava" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.company.lesson_5.l_5_5_3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -423,17 +362,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="Application.SimpleConstructor" />
-      <item itemvalue="Application.SimpleConstructor2" />
       <item itemvalue="Application.Student" />
       <item itemvalue="Application.Overloading" />
+      <item itemvalue="Application.TerminationCondition" />
+      <item itemvalue="Application.TerminationCondition (1)" />
+      <item itemvalue="Application.StaticInitialization" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.StaticInitialization" />
+        <item itemvalue="Application.TerminationCondition (1)" />
+        <item itemvalue="Application.TerminationCondition" />
         <item itemvalue="Application.Overloading" />
         <item itemvalue="Application.Student" />
-        <item itemvalue="Application.SimpleConstructor2" />
-        <item itemvalue="Application.SimpleConstructor" />
       </list>
     </recent_temporary>
   </component>
@@ -447,12 +388,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1535291943937</updated>
-      <workItem from="1535291945315" duration="1707000" />
+      <workItem from="1535291945315" duration="4976000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1707000" />
+    <option name="totallyTimeSpent" value="4976000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="820" extended-state="0" />
@@ -494,16 +435,14 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="3" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/ThinkingInJava.iml">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/SimpleConstructor.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/SimpleConstructor2.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -538,8 +477,52 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_2/Overloading.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-369">
+        <state relative-caret-position="113">
+          <caret line="20" selection-start-line="20" selection-end-line="30" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_141.jdk/Contents/Home/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="110" column="19" selection-start-line="110" selection-start-column="19" selection-end-line="110" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_1/SimpleConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
           <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_5_3/TerminationCondition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="35" selection-end-column="37" />
+          <folding>
+            <element signature="e#242#243#0" expanded="true" />
+            <element signature="e#273#274#0" expanded="true" />
+            <element signature="e#292#293#0" expanded="true" />
+            <element signature="e#320#321#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/company/lesson_5/l_5_7_2/StaticInitialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
+          <folding>
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#222#223#0" expanded="true" />
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#296#297#0" expanded="true" />
+            <element signature="e#440#441#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#706#707#0" expanded="true" />
+            <element signature="e#756#757#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
